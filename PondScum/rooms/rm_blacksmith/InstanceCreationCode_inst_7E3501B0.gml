@@ -1,4 +1,4 @@
-target_x = 0;
-target_y = 0;
-target_rm = rm_blacksmith;
+target_x = 772;
+target_y = 489;
+target_rm = rm_center;
 

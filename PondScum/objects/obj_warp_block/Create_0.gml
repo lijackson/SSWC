@@ -1,4 +1,2 @@
-target_x = 0;
-target_y = 0;
-target_rm = 0;
+var target_x, target_y, target_rm;
 

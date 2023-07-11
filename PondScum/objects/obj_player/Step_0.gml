@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+depth = 0;
 right_key = keyboard_check(vk_right);
 up_key = keyboard_check(vk_up);
 left_key = keyboard_check(vk_left);
@@ -59,3 +60,4 @@ if yspd > 0 && face == UP {face = DOWN};
 if yspd < 0 && face == DOWN {face = UP};
 
 sprite_index = sprite[face];
+
