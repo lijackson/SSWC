@@ -10,11 +10,19 @@
     {"name":"inst_11C0D4CF","path":"rooms/rm_center/rm_center.yy",},
     {"name":"inst_4A7FEE7C","path":"rooms/rm_center/rm_center.yy",},
     {"name":"inst_250545C0","path":"rooms/rm_center/rm_center.yy",},
+    {"name":"inst_13504370","path":"rooms/rm_center/rm_center.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4A7FEE7C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_blacksmith","path":"objects/obj_blacksmith/obj_blacksmith.yy",},"properties":[],"rotation":0.081085876,"scaleX":2.4132452,"scaleY":2.1875,"x":707.0,"y":379.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_13504370","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"WanderingNPC","path":"objects/WanderingNPC/WanderingNPC.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"WanderingNPC","path":"objects/WanderingNPC/WanderingNPC.yy",},"propertyId":{"name":"wander_dist","path":"objects/WanderingNPC/WanderingNPC.yy",},"value":"128",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"WanderingNPC","path":"objects/WanderingNPC/WanderingNPC.yy",},"propertyId":{"name":"home_x","path":"objects/WanderingNPC/WanderingNPC.yy",},"value":"480",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"WanderingNPC","path":"objects/WanderingNPC/WanderingNPC.yy",},"propertyId":{"name":"home_y","path":"objects/WanderingNPC/WanderingNPC.yy",},"value":"480",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"WanderingNPC","path":"objects/WanderingNPC/WanderingNPC.yy",},"propertyId":{"name":"target_y","path":"objects/WanderingNPC/WanderingNPC.yy",},"value":"480",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"WanderingNPC","path":"objects/WanderingNPC/WanderingNPC.yy",},"propertyId":{"name":"target_x","path":"objects/WanderingNPC/WanderingNPC.yy",},"value":"480",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":480.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"walls","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_11C0D4CF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"rotation":0.0,"scaleX":7.3125,"scaleY":5.125,"x":725.0,"y":399.0,},
