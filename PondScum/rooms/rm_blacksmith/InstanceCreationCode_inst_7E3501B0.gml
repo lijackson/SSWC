@@ -1,4 +1,4 @@
-target_x = 772;
-target_y = 489;
+target_x = 766;
+target_y = 478;
 target_rm = rm_center;
 
