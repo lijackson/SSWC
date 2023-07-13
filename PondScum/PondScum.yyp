@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.6.0.89",
   },
   "resources": [
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -60,8 +60,10 @@
     {"id":{"name":"WanderingNPC","path":"objects/WanderingNPC/WanderingNPC.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"spr_otto_down","path":"sprites/spr_otto_down/spr_otto_down.yy",},},
+    {"id":{"name":"rm_center","path":"rooms/rm_center/rm_center.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_center","path":"rooms/rm_center/rm_center.yy",},},
     {"roomId":{"name":"rm_blacksmith","path":"rooms/rm_blacksmith/rm_blacksmith.yy",},},
   ],
   "TextureGroups": [

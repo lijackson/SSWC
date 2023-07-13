@@ -24,7 +24,7 @@
   "tile_count": 0,
   "tileAnimation": {
     "FrameData": [],
-    "SerialiseFrameCount": 1,
+    "SerialiseFrameCount": 0,
   },
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
