@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object5",
+  "name": "obj_blocky_house",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_blocky_house",
+    "path": "sprites/spr_blocky_house/spr_blocky_house.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
